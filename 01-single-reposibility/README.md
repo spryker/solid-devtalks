@@ -1,7 +1,7 @@
 # SOLID principles: single responsibility
 
 This folder contains the code examples for *single responsibility* devtalk, by Alessandro Bellini.
-You can find the slides: [here on slideshare](http://www.slideshare.net/AlessandroBellini3/solid-principles-single-responsibility-spryker-devtalks).
+You can find the slides [here on slideshare](http://www.slideshare.net/AlessandroBellini3/solid-principles-single-responsibility-spryker-devtalks).
 
 ### Requirements
 - `node.js` 5.0.0 or above

@@ -17,13 +17,13 @@ cd /path/of/this/repo/01-single-responsibility
 # install the dependencies
 npm install
 
-# just build the examples
-npm run build 
-
-# build the examples 
+# build the examples
+# watch over the assets for changing 
 # and create a server on localhost:6789
-# where you can see them
 npm run serve 
+
+# or just build the examples
+npm run build 
 ```
 
 If you want to change the default server port, edit the `package.json`:

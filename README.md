@@ -4,7 +4,7 @@ Code repo for SOLID principles devtalks
 
 ## Talks
 
-- [Single responsibility, by Alessandro Bellini](./01-single-responsibility#README)
+- [Single responsibility, by Alessandro Bellini](./tree/master/01-single-reposibility)
 
 ---
 

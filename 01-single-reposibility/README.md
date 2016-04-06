@@ -9,21 +9,22 @@ You can find the slides here: []().
 
 ### Setup
 
-```
+``` bash
 # install the dependencies
 npm install
 
-# it builds the examples
+# just build the examples
 npm run build 
 
-# it builds the examples and create a server on localhost:6789
+# build the examples 
+# and create a server on localhost:6789
 # where you can see them
 npm run serve 
 ```
 
 If you want to change the default server port, edit the `package.json`:
 
-```
+``` json
 "devServer": {
 	"port": 6789
 }

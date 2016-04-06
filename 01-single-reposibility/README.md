@@ -8,8 +8,12 @@ You can find the slides here: []().
 - `npm` 3.6.0 or above
 
 ### Setup
+Download this repo on your local machine, then:
 
 ``` bash
+# go to this talk root folder
+cd /path/of/this/repo/01-single-responsibility
+
 # install the dependencies
 npm install
 

@@ -1,0 +1,20 @@
+{
+    "success": true,
+    "items": [{
+        "name": "Freddy Mercury",
+        "value": "great singer and composer",
+        "isImportant": false
+    }, {
+        "name": "Eric Clapton",
+        "value": "amazing guitarist",
+        "isImportant": false
+    }, {
+        "name": "John Bonham",
+        "value": "world's best drummer, according to rolling stone",
+        "isImportant": true
+    }, {
+        "name": "Justin Bieber",
+        "value": "who the :) is Justing Bieber? - cit. Ozzy Osbourne",
+        "isImportant": false
+    }]
+}
